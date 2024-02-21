@@ -17,3 +17,5 @@ This project implements a basic calculator using HTML, CSS, and JavaScript. User
 - CSS
 
 ## Preview Link
+
+https://jminx42.github.io/html-calculator/
